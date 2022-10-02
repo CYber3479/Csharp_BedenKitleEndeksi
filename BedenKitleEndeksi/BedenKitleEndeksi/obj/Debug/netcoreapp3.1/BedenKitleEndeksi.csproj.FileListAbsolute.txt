@@ -1,0 +1,14 @@
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\netcoreapp3.1\BedenKitleEndeksi.exe
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\netcoreapp3.1\BedenKitleEndeksi.deps.json
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\netcoreapp3.1\BedenKitleEndeksi.runtimeconfig.json
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\netcoreapp3.1\BedenKitleEndeksi.runtimeconfig.dev.json
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\netcoreapp3.1\BedenKitleEndeksi.dll
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\netcoreapp3.1\BedenKitleEndeksi.pdb
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\netcoreapp3.1\BedenKitleEndeksi.csproj.AssemblyReference.cache
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\netcoreapp3.1\BedenKitleEndeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\netcoreapp3.1\BedenKitleEndeksi.AssemblyInfoInputs.cache
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\netcoreapp3.1\BedenKitleEndeksi.AssemblyInfo.cs
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\netcoreapp3.1\BedenKitleEndeksi.csproj.CoreCompileInputs.cache
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\netcoreapp3.1\BedenKitleEndeksi.dll
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\netcoreapp3.1\BedenKitleEndeksi.pdb
+C:\Users\celal\Desktop\Ders\Nesne Tabanlı Programlama\Uygulamalar\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\netcoreapp3.1\BedenKitleEndeksi.genruntimeconfig.cache
